@@ -1,1 +1,1 @@
-ksadhakshdklas
+print("hello world")
