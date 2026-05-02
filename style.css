@@ -1,0 +1,12 @@
+div{
+    flex-direction: row;
+    justify-content: flex-end;
+    display:flex;
+    width:80%;
+    margin: 0 auto;
+}
+div p{
+    width:60%;
+    margin-right: 10%;
+    float: left;
+}
