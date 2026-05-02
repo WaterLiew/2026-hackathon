@@ -4,9 +4,10 @@ div{
     display:flex;
     width:80%;
     margin: 0 auto;
+    border: 1px solid black
 }
 div p{
     width:60%;
-    margin-right: 10%;
     float: left;
+    margin: auto 10% auto 0;
 }
